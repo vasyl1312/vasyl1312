@@ -3,25 +3,16 @@
 </div>
 <h1><h1> Hi there 👋</h1></h1>
 <h2>I'm Vasyl 😎</h2>
-<div id="badges">
-  <a href="https://djinni.co/q/d9b5f577b1/">
-    <img src="https://sourcingsummit.net/sosud/wp-content/uploads/sites/34/2017/07/djinnix505x235-1.jpg" alt="Djinni Badge" width="50"/>
-  </a>
-  <a href="https://www.instagram.com/vasyllko/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Instagram Badge" width="50"/>
-  </a>
-  <a href="https://t.me/vasylkoo">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram Badge" width="50"/>
-  </a>
-</div>
+
 <p>I'm a student of Taras Shevchenko National University of Kyiv, Faculty of Computer Science and Cybernetics 💻</p>
 <p>This is my GitHub profile and pins projects are my best,</p>
 <p>I try to develop by Node.js and more... 📚</p>
 <p>So, if you wanna know more about me: </p>
+<div id="badges">
 <a href="https://drive.google.com/file/d/1YNoyB1oohadhTASFh5NSV3dpIGpozKlo/view?usp=sharing">
     <img src="https://png.pngtree.com/element_our/png_detail/20181021/google-drive-icon-design-vector-png_141905.jpg" width="50"/>
   </a>
-
+</div>
 
 <h2>I work with</h2>
   <div>
@@ -34,7 +25,18 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
   
-
+  <h2>Follow me</h2>
+<div id="badges">
+  <a href="https://djinni.co/q/d9b5f577b1/">
+    <img src="https://sourcingsummit.net/sosud/wp-content/uploads/sites/34/2017/07/djinnix505x235-1.jpg" alt="Djinni Badge" width="50"/>
+  </a>
+  <a href="https://www.instagram.com/vasyllko/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Instagram Badge" width="50"/>
+  </a>
+  <a href="https://t.me/vasylkoo">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram Badge" width="50"/>
+  </a>
+</div>
 
 
 
