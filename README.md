@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="300"/>
 </div>
-### Hi there 👋
+<h1><h1> Hi there 👋</h1></h1>
 
 <h1>I'm Vasyl 😎</h1>
 <p>I'm a student of Taras Shevchenko National University of Kyiv, Faculty of Computer Science and Cybernetics 💻</p>
@@ -9,7 +9,7 @@
 <p>I try to develop by Node.js and more... 📚</p>
 <p>So, if you wanna know more about me: </p>
 <a href="https://drive.google.com/file/d/1YNoyB1oohadhTASFh5NSV3dpIGpozKlo/view?usp=sharing">
-    <img src="https://w7.pngwing.com/pngs/749/867/png-transparent-computer-icons-google-drive-google-search-google-logo-google-drive-logo-angle-text-rectangle.png" width="50"/>
+    <img src="https://www.researchgate.net/profile/Shadi-Al-Amodi/publication/341222684/figure/fig4/AS:888722493026304@1588899362627/The-Google-Disk-logo-2.ppm" width="30"/>
   </a>
 
 
