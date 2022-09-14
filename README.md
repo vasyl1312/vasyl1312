@@ -11,6 +11,7 @@ I'm Vasyl 😎</h1>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vasyl1312&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasyl1312)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### :hammer_and_wrench: Languages and Tools :
