@@ -23,7 +23,7 @@ I'm Vasyl 😎</h1>
   <h2>Follow me</h2>
 <div id="badges">
   <a href="https://djinni.co/q/d9b5f577b1/">
-    <img src="https://sourcingsummit.net/sosud/wp-content/uploads/sites/34/2017/07/djinnix505x235-1.jpg" alt="Djinni Badge" width="70"/>
+    <img src="https://sourcingsummit.net/sosud/wp-content/uploads/sites/34/2017/07/djinnix505x235-1.jpg" alt="Djinni Badge" width="100"/>
   </a>
   <a href="https://www.instagram.com/vasyllko/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Instagram Badge" width="50"/>
