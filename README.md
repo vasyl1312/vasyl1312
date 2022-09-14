@@ -9,11 +9,11 @@ I'm Vasyl 😎</h1>
 - 📚 I like to do something new and try to develop by Node.js and more... 
 - 😏 So, if you wanna know more about me: <a href="https://drive.google.com/file/d/1YNoyB1oohadhTASFh5NSV3dpIGpozKlo/view?usp=sharing">CV</a> 
 
+### ⚙ Most used languages in projects:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasyl1312&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vasyl1312&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-### ⚙: Most used languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasyl1312&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### :hammer_and_wrench: Languages and Tools :
