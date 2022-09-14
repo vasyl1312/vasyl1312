@@ -9,9 +9,7 @@
 <p>I try to develop by Node.js and more... 📚</p>
 <p>So, if you wanna know more about me: </p>
 <div id="badges">
-<a href="https://drive.google.com/file/d/1YNoyB1oohadhTASFh5NSV3dpIGpozKlo/view?usp=sharing">
-    <img src="https://png.pngtree.com/element_our/png_detail/20181021/google-drive-icon-design-vector-png_141905.jpg" width="50"/>
-  </a>
+<a href="https://drive.google.com/file/d/1YNoyB1oohadhTASFh5NSV3dpIGpozKlo/view?usp=sharing">CV</a>
 </div>
 
 <h2>I work with</h2>
@@ -28,7 +26,7 @@
   <h2>Follow me</h2>
 <div id="badges">
   <a href="https://djinni.co/q/d9b5f577b1/">
-    <img src="https://sourcingsummit.net/sosud/wp-content/uploads/sites/34/2017/07/djinnix505x235-1.jpg" alt="Djinni Badge" width="50"/>
+    <img src="https://sourcingsummit.net/sosud/wp-content/uploads/sites/34/2017/07/djinnix505x235-1.jpg" alt="Djinni Badge" width="70"/>
   </a>
   <a href="https://www.instagram.com/vasyllko/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Instagram Badge" width="50"/>
