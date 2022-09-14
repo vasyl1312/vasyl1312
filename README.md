@@ -4,12 +4,16 @@
 <h1> Hi there 👋
 I'm Vasyl 😎</h1>
 
-<p>I'm a student of Taras Shevchenko National University of Kyiv, Faculty of Computer Science and Cybernetics 💻</p>
-<p>This is my GitHub profile and pins projects are my best,</p>
-<p>I try to develop by Node.js and more... 📚</p>
-<p>So, if you wanna know more about me: <a href="https://drive.google.com/file/d/1YNoyB1oohadhTASFh5NSV3dpIGpozKlo/view?usp=sharing">CV</a></p>
+- I'm a student of Taras Shevchenko National University of Kyiv, Faculty of Computer Science and Cybernetics 💻
+- This is my GitHub profile and pins projects are my best 🙂
+- I try to develop by Node.js and more... 📚
+- So, if you wanna know more about me: <a href="https://drive.google.com/file/d/1YNoyB1oohadhTASFh5NSV3dpIGpozKlo/view?usp=sharing">CV</a> 😏
 
-<h2>I work with</h2>
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vasyl1312&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+### :hammer_and_wrench: Languages and Tools :
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://itproger.com/intensive/img/express.png" title="Express" alt="Express" width="40" height="40"/>&nbsp;
