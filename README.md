@@ -32,7 +32,7 @@ I'm Vasyl 😎</h1>
   <h2>Follow me</h2>
 <div id="badges">
   <a href="https://djinni.co/q/d9b5f577b1/">
-    <img src="https://s.dou.ua/img/static/companies/logo_short402x.png" alt="Djinni Badge" width="100"/>
+    <img src="https://s.dou.ua/img/static/companies/logo_short402x.png" alt="Djinni Badge" width="50"/>
   </a>
   <a href="https://www.instagram.com/vasyllko/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Instagram Badge" width="50"/>
