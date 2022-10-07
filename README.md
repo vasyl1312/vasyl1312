@@ -9,7 +9,7 @@ I'm Vasyl 😎</h1>
 - 💻 I am a student of Taras Shevchenko National University of Kyiv, Faculty of Computer Science and Cybernetics 
 - 🙂 This is my GitHub profile and pins projects are my best 
 - 📚 I like to do something new and try to develop by Node.js and more... 
-- 😏 So, if you wanna know more about me: <a href="https://drive.google.com/file/d/12OZhnbgAmY4njmBjHr59_MEB7ztnwBPj/view?usp=sharing">CV</a> 
+- 😏 So, if you wanna know more about me: <a href="https://drive.google.com/file/d/1kxzMOAFaZDG2dKz9jVoPZ7d8cQP3PbVH/view?usp=sharing">CV</a> 
 
 ### ⚙ Most used languages in projects:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasyl1312&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
