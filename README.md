@@ -1,55 +1,57 @@
 <div id="header" align="center">
   
   <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="300" />
+    
   
-</div>
-
-![snake gif](https://github.com/vasyl1312/vasyl1312/blob/output/github-contribution-grid-snake.gif)
-
-<h1> Hi there 👋
-I'm Vasyl 😎</h1>
-
-- 💻 I am a student of Taras Shevchenko National University of Kyiv, Faculty of Computer Science and Cybernetics 
-- 🙂 This is my GitHub profile and pins projects are my best 
-- 📚 I like to do something new and try to develop with Node.js and more... 
-
-### ⚙ Most used languages in projects:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasyl1312&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vasyl1312&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-
-### :hammer_and_wrench: Languages and Tools :
-  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;     
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="60" height="60"/>&nbsp; 
-  <img src="https://itproger.com/intensive/img/express.png" title="Express" alt="Express" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDb" alt="MongoDb" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="60" height="60"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="60" height="60"/>&nbsp;
+  <h1> Hi there 👋
+  I'm Vasyl 😎</h1>
+  
+   💻 I am a student of Taras Shevchenko National University of Kyiv, Faculty of Computer Science and Cybernetics 
    
-</div>
+   🙂 This is my GitHub profile and pins projects are my best 
+   
+   📚 I like to do something new and try to develop with Node.js and more... 
+  ![Snake animation](https://github.com/vasyl1312/vasyl1312/blob/output/github-contribution-grid-snake.svg)
   
+  
+  ### ⚙ Most used languages in projects:
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasyl1312&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+  ### :fire: My Stats :
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vasyl1312&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  
+  
+  ### :hammer_and_wrench: Languages and Tools :
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;     
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="60" height="60"/>&nbsp; 
+    <img src="https://itproger.com/intensive/img/express.png" title="Express" alt="Express" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDb" alt="MongoDb" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="60" height="60"/>&nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="60" height="60"/>&nbsp;
+     
+  </div>
+    
   <h2>Follow me</h2>
-<div id="badges">
-  <a href="https://djinni.co/q/d9b5f577b1/">
-    <img src="http://djinni.co/static/favicons/v03/favicon-196x196.png" alt="Djinni Badge" width="50"/>
-  </a>
-  <a href="https://www.instagram.com/vasyllko/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Instagram Badge" width="50"/>
-  </a>
-  <a href="https://t.me/vasylkoo">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram Badge" width="50"/>
-  </a>
-    <a href="https://www.linkedin.com/in/vasyl-hryts-b2aa5121b/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin Badge" width="50"/>
-  </a>
+  <div id="badges">
+    <a href="https://djinni.co/q/d9b5f577b1/">
+      <img src="http://djinni.co/static/favicons/v03/favicon-196x196.png" alt="Djinni Badge" width="50"/>
+    </a>
+    <a href="https://www.instagram.com/vasyllko/">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Instagram Badge" width="50"/>
+    </a>
+    <a href="https://t.me/vasylkoo">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram Badge" width="50"/>
+    </a>
+      <a href="https://www.linkedin.com/in/vasyl-hryts-b2aa5121b/">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin Badge" width="50"/>
+    </a>
+  </div>
+
+
 </div>
-
-
