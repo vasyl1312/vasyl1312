@@ -8,7 +8,7 @@ I'm Vasyl 😎</h1>
 
 - 💻 I am a student of Taras Shevchenko National University of Kyiv, Faculty of Computer Science and Cybernetics 
 - 🙂 This is my GitHub profile and pins projects are my best 
-- 📚 I like to do something new and try to develop by Node.js and more... 
+- 📚 I like to do something new and try to develop with Node.js and more... 
 
 ### ⚙ Most used languages in projects:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasyl1312&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -19,16 +19,18 @@ I'm Vasyl 😎</h1>
 
 ### :hammer_and_wrench: Languages and Tools :
   <div>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;     
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="60" height="60"/>&nbsp; 
   <img src="https://itproger.com/intensive/img/express.png" title="Express" alt="Express" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDb" alt="MongoDb" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="60" height="60"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="60" height="60"/>&nbsp; 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="60" height="60"/>&nbsp;
+   
 </div>
   
   <h2>Follow me</h2>
