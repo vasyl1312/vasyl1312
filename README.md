@@ -1,7 +1,10 @@
 <div id="header" align="center">
-
+  
   <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="300" />
+  
 </div>
+
+![snake gif](https://github.com/vasyl1312/vasyl1312/blob/output/github-contribution-grid-snake.gif)
 
 <h1> Hi there 👋
 I'm Vasyl 😎</h1>
@@ -48,3 +51,5 @@ I'm Vasyl 😎</h1>
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin Badge" width="50"/>
   </a>
 </div>
+
+
