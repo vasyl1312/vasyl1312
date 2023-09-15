@@ -50,6 +50,9 @@
     <a href="https://reactjs.org/" target="_blank">
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>
     </a>&nbsp;  
+    <a href="https://www.docker.com/" target="_blank">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>
+    </a>&nbsp;  
     <a href="https://getbootstrap.com/" target="_blank">
       <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>
     </a>&nbsp;  
@@ -58,6 +61,12 @@
     </a>&nbsp;  
     <a href="https://nestjs.com/" target="_blank">
       <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="50" height="50"/>
+    </a>&nbsp; 
+    <a href="https://www.figma.com/" target="_blank">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>
+    </a>&nbsp; 
+     <a href="https://aws.amazon.com/" target="_blank">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="70" height="70"/>
     </a>&nbsp; 
   </div>
     
