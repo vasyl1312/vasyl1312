@@ -6,11 +6,10 @@
   <h1> Hi there 👋
   I'm Vasyl 😎</h1>
   
-   💻 I am a student of Taras Shevchenko National University of Kyiv, Faculty of Computer Science and Cybernetics 
+   💻 I am a student of a Master's degree at the Taras Shevchenko National University of Kyiv, Faculty of Computer Science and Cybernetics 
    
-   🙂 This is my GitHub profile and pins projects are my best 
+   📚 I like to do something new and try to develop with Node.js/TS/PG and more... 
    
-   📚 I like to do something new and try to develop with Node.js and more... 
   ![Snake animation](https://github.com/vasyl1312/vasyl1312/blob/output/github-contribution-grid-snake.svg)
   
   
