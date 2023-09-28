@@ -5,9 +5,9 @@
   
   <h1> Hi there 👋
   I'm Vasyl 😎</h1>
-   
+   <!---
   ![Snake animation](https://github.com/vasyl1312/vasyl1312/blob/output/github-contribution-grid-snake.svg)
-  
+   --->
   
   ### ⚙ Most used languages in projects:
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasyl1312&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -70,14 +70,17 @@
     <a href="https://djinni.co/q/d9b5f577b1/">
       <img src="http://djinni.co/static/favicons/v03/favicon-196x196.png" alt="Djinni Badge" width="50"/>
     </a>
-    <a href="https://www.instagram.com/vasyllko/">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Instagram Badge" width="50"/>
-    </a>
     <a href="https://t.me/vasylkoo">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram Badge" width="50"/>
     </a>
       <a href="https://www.linkedin.com/in/vasyl-hryts-b2aa5121b/">
       <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin Badge" width="50"/>
+    </a>
+        <a href="https://www.instagram.com/vasyllko/">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Instagram Badge" width="50"/>
+    </a>
+        <a href="https://www.superprof.com.ua/ir/25702261-96fae8">
+      <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/5b7bda20a4afda000104078a/0x0.png" alt="Instagram Badge" width="50"/>
     </a>
   </div>
 
