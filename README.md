@@ -1,7 +1,6 @@
 <div id="header" align="center">
   
   <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="300" />
-    
   
   <h1> Hi there 👋
   I'm Vasyl 😎</h1>
@@ -13,6 +12,9 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasyl1312&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
   ### :fire: My Stats :
+  
+  [![Hryts Vasyl profile views](https://u8views.com/api/v1/github/profiles/78865780/views/day-week-month-total-count.svg)](https://u8views.com/github/vasyl1312)
+  
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vasyl1312&theme=dark&hide_border=true)](https://git.io/streak-stats)
   
   
