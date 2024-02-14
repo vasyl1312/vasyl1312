@@ -69,9 +69,6 @@
     
   <h2>Follow me</h2>
   <div id="badges">
-    <a href="https://djinni.co/q/d9b5f577b1/">
-      <img src="http://djinni.co/static/favicons/v03/favicon-196x196.png" alt="Djinni Badge" width="50"/>
-    </a>
     <a href="https://t.me/vasylkoo">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram Badge" width="50"/>
     </a>
