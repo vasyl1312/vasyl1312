@@ -57,7 +57,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="50" height="50"/>
     </a>&nbsp;  
     <a href="https://nestjs.com/" target="_blank">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="50" height="50"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="50" height="50"/>
     </a>&nbsp; 
     <a href="https://www.figma.com/" target="_blank">
       <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>
