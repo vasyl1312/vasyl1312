@@ -72,9 +72,9 @@
     <a href="https://t.me/vasylkoo">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram Badge" width="50"/>
     </a>
-      <a href="https://www.linkedin.com/in/vasyl-hryts-b2aa5121b/">
+<!--       <a href="https://www.linkedin.com/in/vasyl-hryts-b2aa5121b/">
       <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin Badge" width="50"/>
-    </a>
+    </a> -->
         <a href="https://www.instagram.com/vasyllko/">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Instagram Badge" width="50"/>
     </a>
