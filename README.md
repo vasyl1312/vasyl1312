@@ -11,7 +11,7 @@
   
   [![Hryts Vasyl profile views](https://u8views.com/api/v1/github/profiles/78865780/views/day-week-month-total-count.svg)](https://u8views.com/github/vasyl1312)
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vasyl1312&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
   
   
   ### :hammer_and_wrench: Languages and Tools :
