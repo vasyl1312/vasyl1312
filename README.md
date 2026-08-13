@@ -63,21 +63,7 @@
     </a>&nbsp; 
   </div>
     
-  <h2>Follow me</h2>
-  <div id="badges">
-    <a href="https://t.me/vasylkoo">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram Badge" width="50"/>
-    </a>
-<!--       <a href="https://www.linkedin.com/in/vasyl-hryts-b2aa5121b/">
-      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin Badge" width="50"/>
-    </a> -->
-        <a href="https://www.instagram.com/vasyllko/">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Instagram Badge" width="50"/>
-    </a>
-        <a href="https://www.superprof.com.ua/ir/25702261-96fae8">
-      <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/5b7bda20a4afda000104078a/0x0.png" alt="Instagram Badge" width="50"/>
-    </a>
-  </div>
+ 
 
 
 </div>
