@@ -5,9 +5,7 @@
   <h1> Hi there 👋
   I'm Vasyl 😎</h1>
   
-  
-  ### ⚙ Most used languages in projects:
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasyl1312&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
   
   ### :fire: My Stats :
   
